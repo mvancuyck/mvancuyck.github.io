@@ -1,5 +1,8 @@
-# mvancuyck.github.io
-# Post doc
+# Mathilde van Cuyck, Ph.D | Post-doctoral research Associate
+## University of Illinois Urbana-Champaign | mvancuyc@illinois.edu
+## 1002 West Green Street
+## Urbana, 61801, IL
+
 
 ## Qualiﬁcation and education
 - Ph.D., Physics | Aix-Marseille Universite (_2020-2023_)
