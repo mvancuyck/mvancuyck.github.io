@@ -13,10 +13,6 @@
 - TIM has successfully deployed for its test flight during the Summer 2024, to which I took part.
 - I  am in charge of preparing the upcoming data analysis. 
 
-## Projects
-### Project 1 
-[Publication](https://ui.adsabs.harvard.edu/abs/2023A%26A...676A..62V/abstract)
-
 ## Publications
 
 1. **Characterizing the evolution of z=0.5 – 1.7 galaxies with a PRIMA spectroscopic survey**  
