@@ -1,39 +1,72 @@
 # mvancuyck.github.io
 # Post doc
 
-## Education
-- Ph.D., Physics | Aix-Marseille Universite (_2020-2023_)								       		
+## Qualiﬁcation and education
+- Ph.D., Physics | Aix-Marseille Universite (_2020-2023_)
+  Title: Measuring the power spectrum of [CII]-emitting galaxies during the Epoch of Reionisation and Post Reionisation with the CONCERTO instrument. 				       		
 - M.S., Physics	| Unviersité Claude Bernard Lyon 1 (_2018-2020_)	 			        		
 - B.S., Physics | Unviersité Claude Bernard Lyon 1 (_2015-2018_)
 
 ## Work Experience
-**Ph-D | place | date **
-- sentence 1
-- sentence 2
+**Post-doctoral associate on the Terahertz Intensity Mapper | UIUC, Champaign, IL | (_2024-present_) **
+- TIM is a balloon-born experiment that will conduct the [CII] Line Intensity Mapping survey from Antarctica in Dec 2026-Jan 2027
+- TIM has successfully deployed for its test flight during the Summer 2024, to which I took part.
+- I  am in charge of preparing the upcoming data analysis. 
 
 ## Projects
 ### Project 1 
 [Publication](https://ui.adsabs.harvard.edu/abs/2023A%26A...676A..62V/abstract)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+
+1. **Characterizing the evolution of z=0.5 – 1.7 galaxies with a PRIMA spectroscopic survey**  
+- Lun-Jun Liu, Mathilde Van Cuyck, Charles M. Bradford, Ryan P. Keenan, TIM Consortium  
+- Submitted for publication in the PRIMA GO book Volume II  
+
+---
+
+2. **CIB separation using the frequency difference technique in Terahertz Line Intensity Mapping**  
+- M. Van Cuyck & S. Raghunathan  
+- In preparation for publication in AAS  
+
+---
+
+3. **Determining the molecular gas density ρ<sub>H2</sub> from Carbon Monoxide Line-intensity Mapping with CONCERTO-like experiment**  
+- M. Van Cuyck, G. Lagache, A. Beelen, M. Béthermin et al.  
+- Submitted to *Astronomy & Astrophysics*  
+
+---
+
+4. **CONCERTO: Extracting the power spectrum of the [C II] emission line**  
+- M. Van Cuyck, N. Ponthieu, G. Lagache, A. Gkogkou et al.  
+- August 2023  
+
+---
+
+5. **Continuum, CO and Water vapour maps of the Orion Nebula. First millimetre spectral imaging with Concerto**  
+- Désert, F.-X., Macías-Pérez, J. F., Beelen, A., incl. M. Van Cuyck, et al.
+- April 2025  
+
+---
+
+6. **CONCERTO at APEX: On-sky performance in continuum**  
+- Hu, W., Beelen, A., Lagache, G., Fasano, A., Lundgren, A., Ade, P., Aravena, M., Barria, E., [...], M. Van Cuyck  
+- September 2024  
+
+---
+
+7. **CONCERTO: Simulating the CO, [CII], and [CI] line emission of galaxies in a 117 deg² field and the impact of field-to-field variance**  
+- A. Gkogkou, M. Béthermin, G. Lagache, M. Van Cuyck, et al.  
+- January 2023, *A&A* 670, A16. [arXiv:2212.02235](https://arxiv.org/abs/2212.02235)  
+
+---
+
+8. **CONCERTO: a breakthrough in wide field-of-view spectroscopy at millimeter wavelengths**  
+- A. Fasano, A. Beelen, A. Benoît, A. Lundgren et al.  
+- August 2022, *Proceedings of SPIE*, Volume 12190. [arXiv:2206.15146](https://arxiv.org/abs/2206.15146)  
+
+---
+
+9. **CONCERTO: High-fidelity simulation of millimeter line emissions of galaxies and [CII] intensity mapping**  
+- M. Béthermin, A. Gkogkou, M. Van Cuyck, G. Lagache et al.  
+- April 2022, *A&A* 667. [arXiv:2204.12827](https://arxiv.org/abs/2204.12827)  
