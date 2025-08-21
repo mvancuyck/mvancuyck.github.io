@@ -33,25 +33,25 @@
 
 3. **Determining the molecular gas density ρ<sub>H2</sub> from Carbon Monoxide Line-intensity Mapping with CONCERTO-like experiment**  
 - M. Van Cuyck, G. Lagache, A. Beelen, M. Béthermin et al.  
-- Submitted to *Astronomy & Astrophysics*  
+- Submitted to *A&A*  
 
 ---
 
 4. **CONCERTO: Extracting the power spectrum of the [C II] emission line**  
 - M. Van Cuyck, N. Ponthieu, G. Lagache, A. Gkogkou et al.  
-- August 2023  
+- August 2023, *A&A* 676, A62. [arXiv:2306.01568](https://arxiv.org/abs/2306.01568)
 
 ---
 
 5. **Continuum, CO and Water vapour maps of the Orion Nebula. First millimetre spectral imaging with Concerto**  
 - Désert, F.-X., Macías-Pérez, J. F., Beelen, A., incl. M. Van Cuyck, et al.
-- April 2025  
+- April 2025 [arXiv:2504.20487](https://arxiv.org/abs/2504.20487)
 
 ---
 
 6. **CONCERTO at APEX: On-sky performance in continuum**  
 - Hu, W., Beelen, A., Lagache, G., Fasano, A., Lundgren, A., Ade, P., Aravena, M., Barria, E., [...], M. Van Cuyck  
-- September 2024  
+- September 2024, *A&A* 689, A20. [arXiv:2406.15572](https://arxiv.org/abs/2406.15572)
 
 ---
 
