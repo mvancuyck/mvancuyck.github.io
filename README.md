@@ -1,7 +1,7 @@
 # Mathilde van Cuyck, Ph.D | Post-doctoral research Associate
-## University of Illinois Urbana-Champaign | mvancuyc@illinois.edu
-## 1002 West Green Street
-## Urbana, 61801, IL
+### University of Illinois Urbana-Champaign | mvancuyc@illinois.edu
+### 1002 West Green Street
+### Urbana, 61801, IL
 
 
 ## Qualiﬁcation and education
