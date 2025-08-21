@@ -6,7 +6,7 @@
 
 ## Qualiﬁcation and education
 - Ph.D., Physics | Aix-Marseille Universite (_2020-2023_)
-  Title: Measuring the power spectrum of [CII]-emitting galaxies during the Epoch of Reionisation and Post Reionisation with the CONCERTO instrument. 				       		
+-- Title: Measuring the power spectrum of [CII]-emitting galaxies during the Epoch of Reionisation and Post Reionisation with the CONCERTO instrument. 				       		
 - M.S., Physics	| Unviersité Claude Bernard Lyon 1 (_2018-2020_)	 			        		
 - B.S., Physics | Unviersité Claude Bernard Lyon 1 (_2015-2018_)
 
