@@ -9,15 +9,15 @@
 - M.S., Physics	| Unviersité Claude Bernard Lyon 1 (_2018-2020_)	 			        		
 - B.S., Physics | Unviersité Claude Bernard Lyon 1 (_2015-2018_)
 
-### Work Experience
+# Work Experience
 ## Post-doctoral Associate · Terahertz Intensity Mapper (TIM)  
-# University of Illinois Urbana-Champaign, Champaign, IL (_2024–present_)
+### University of Illinois Urbana-Champaign, Champaign, IL (_2024–present_)
 - TIM is a balloon-born experiment that will conduct the [CII] Line Intensity Mapping survey from Antarctica in Dec 2026-Jan 2027
 - TIM has successfully deployed for its test flight during the Summer 2024, to which I took part.
 - I  am in charge of preparing the upcoming data analysis.
 
 ## Ph.D on CONCERTO  
-# Aix-Marseille Universite, France
+### Aix-Marseille Universite, France
 - Title: Measuring the power spectrum of [CII]-emitting galaxies during the Epoch of Reionisation and Post Reionisation with the CONCERTO instrument.
 - Two runs of two weeks during which I supervised the CONCERTO instrument on site. Adding to this 36h of remote observing from France
 
