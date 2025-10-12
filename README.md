@@ -37,7 +37,7 @@
 
 ---
 
-2. **CIB separation using the frequency difference technique in Terahertz Line Intensity Mapping**  
+22. **CIB separation using the frequency difference technique in Terahertz Line Intensity Mapping**  
    *M. Van Cuyck & S. Raghunathan*  
    _In preparation for AAS_  
 
