@@ -33,7 +33,7 @@
 
 1. **Characterizing the evolution of z = 0.5 – 1.7 galaxies with a PRIMA spectroscopic survey**  
    *Lun-Jun Liu, Mathilde Van Cuyck, Charles M. Bradford, Ryan P. Keenan, TIM Consortium*  
-   _Submitted for publication in PRIMA GO Book Volume II_  
+   _Proposal submitted for publication in PRIMA GO Book Volume II_  
 
 
 
