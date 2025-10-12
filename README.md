@@ -57,7 +57,7 @@
 
 5. **Continuum, CO and Water Vapour Maps of the Orion Nebula: First Millimetre Spectral Imaging with CONCERTO**  
    *Désert F.-X., Macías-Pérez J.F., Beelen A., M. Van Cuyck et al.*  
-   *April 2025* — [arXiv:2504.20487](https://arxiv.org/abs/2504.20487)  
+   *A&A 701, A210 (2025)* — [arXiv:2504.20487](https://arxiv.org/abs/2504.20487)  
 
 
 
