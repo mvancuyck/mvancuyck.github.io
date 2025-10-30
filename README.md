@@ -22,7 +22,7 @@
 - Participated in the successful test flight during Summer 2024.  
 - Currently preparing the upcoming data analysis pipeline.  
 
-### 🌠 Ph.D. Researcher · CONCERTO  
+### 🌠 Ph.D. · CONCERTO  
 **Aix-Marseille Université**, France  
 - **Thesis:** *Measuring the power spectrum of [C II]-emitting galaxies during and after the Epoch of Reionization with the CONCERTO instrument.*  
 - Two observing runs (2 weeks each) supervising CONCERTO on site, plus 36 hours of remote observing from France.  
@@ -33,9 +33,13 @@
 
 1. **Characterizing the evolution of z = 0.5 – 1.7 galaxies with a PRIMA spectroscopic survey**  
    *Lun-Jun Liu, Mathilde Van Cuyck, Charles M. Bradford, Ryan P. Keenan, TIM Consortium*  
-   _Proposal submitted for publication in PRIMA GO Book Volume II_  
+   _Proposal submitted for publication in PRIMA GO Book Volume II_
+   
 
-
+3. **Chromatic Calibration of Line Intensity Mapping Products with Galaxy Catalog Priors**  
+   *S. Agrawal, M. Van cuyck & J. Aguirre*  
+   _In preparation for AAS_
+   
 
 2. **CIB separation using the frequency difference technique in Terahertz Line Intensity Mapping**  
    *M. Van Cuyck & S. Raghunathan*  
