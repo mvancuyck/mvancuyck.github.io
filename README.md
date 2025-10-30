@@ -37,7 +37,7 @@
    
 
 3. **Chromatic Calibration of Line Intensity Mapping Products with Galaxy Catalog Priors**  
-   *S. Agrawal, M. Van cuyck & J. Aguirre*  
+   *S. Agrawal, M. Van Cuyck & J. Aguirre*  
    _In preparation for AAS_
    
 
