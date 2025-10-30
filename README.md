@@ -45,7 +45,7 @@
 
 3. **Determining the molecular gas density ρ<sub>H₂</sub> from Carbon Monoxide Line-Intensity Mapping with CONCERTO-like experiment**  
    *M. Van Cuyck, G. Lagache, A. Beelen, M. Béthermin et al.*  
-   _Accepted by A&A_  
+   _Accepted by A&A_ [arXiv:2510.07596](https://arxiv.org/abs/2510.07596)  
 
 
 
